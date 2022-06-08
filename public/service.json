@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Islamic Product",
+        "img": "https://i.ibb.co/09J8kf1/islamic-product.webp"
+    },
+    {
+        "id": 2,
+        "name": "Grocery",
+        "img": "https://i.ibb.co/dQQNpWV/grocery.webp"
+    },
+    {
+        "id": 3,
+        "name": "Fashion",
+        "img": "https://i.ibb.co/tcxyt8N/fashion.webp"
+    },
+    {
+        "id": 4,
+        "name": "Electronics",
+        "img": "https://i.ibb.co/CPFJ0HV/electronics.webp"
+    },
+    {
+        "id": 5,
+        "name": "Baby Care",
+        "img": "https://i.ibb.co/NF3DrKs/baby-care.webp"
+    },
+    {
+        "id": 6,
+        "name": "Cosmetic",
+        "img": "https://i.ibb.co/GQQHhf9/cosmetic.webp"
+    },
+    {
+        "id": 7,
+        "name": "Furniture",
+        "img": "https://i.ibb.co/zRZSXzF/furniture.webp"
+    },
+    {
+        "id": 8,
+        "name": "Shoe",
+        "img": "https://i.ibb.co/x8DD3PG/shoe.webp"
+    }
+]
+   
+
+
+
+
+
+
+

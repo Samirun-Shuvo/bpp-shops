@@ -1,0 +1,32 @@
+.sponsor{
+    width: 95%;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.sponserImg span{
+   font-weight: bold;
+}
+.sponserImg img{
+    height: 65px;
+    padding: 5px;
+    margin: 5px;
+}
+@media only screen and (max-width: 600px) {
+    .sponsor{
+        width: 100%;
+        margin: 0 auto;
+        border-radius: 5px;
+    }
+    .sponserImg span{
+        font-weight: bold;
+        font-size: 12px;
+     }
+    .sponserImg img{
+        height: 22px;
+
+    }
+    .copyRightText{
+    margin-left: 50px;
+    }
+}
+
