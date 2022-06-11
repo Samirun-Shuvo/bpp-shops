@@ -51,8 +51,8 @@ const Footer = () => {
               <p className="d-flex justify-content-start">
                 <i className="bi bi-geo-alt-fill text-warning"></i>
                 <span className="ms-2 text-white">
-                17, Alhaz Samsuddin Mansion (9th Floor)Moghbazar,
-                  New Easkaton,Ramna,Dhaka-1217
+                  17, Alhaz Samsuddin Mansion (9th Floor)Moghbazar, New
+                  Easkaton,Ramna,Dhaka-1217
                 </span>
               </p>
               <p className="d-flex justify-content-start">
@@ -158,12 +158,16 @@ const Footer = () => {
             <Button variant="outline-warning" size="lg">
               SUBSCRIBE
             </Button>{" "}
-            <div className="mt-3">
-              <img src={appleAppStoreImg} alt="" />
-            </div>
-            <div className="mt-2">
-              <img src={googlePlayStoreImg} alt="" />
-            </div>
+            <Link to="https://github.com/">
+              <div className="mt-3">
+                <img src={appleAppStoreImg} alt="" />
+              </div>
+            </Link>
+            <Link to="/">
+              <div className="mt-2">
+                <img src={googlePlayStoreImg} alt="" />
+              </div>
+            </Link>
           </div>
           <div className="row border bg-white text-dark sponsor mt-3 mb-2">
             <div className="sponserImg">

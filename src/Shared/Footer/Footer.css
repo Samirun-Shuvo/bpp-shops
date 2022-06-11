@@ -9,7 +9,7 @@
 .sponserImg img{
     height: 65px;
     padding: 5px;
-    margin: 5px;
+    margin: 8px;
 }
 @media only screen and (max-width: 600px) {
     .sponsor{
@@ -19,11 +19,13 @@
     }
     .sponserImg span{
         font-weight: bold;
-        font-size: 12px;
+        font-size: 10px;
+        margin-right: 10px;
      }
     .sponserImg img{
-        height: 22px;
-
+        height: 20px;
+        padding: 2px;
+        margin: 6px;
     }
     .copyRightText{
     margin-left: 50px;
